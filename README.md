@@ -3,7 +3,7 @@ A3 Usabilidade, Desenvolvimento Web, Mobile e Jogos
 
 É preciso baixar a extensão Live Server de Ritwick Dey no VSCode para rodar o código. 
 
- 1- Clone a branch main em seu computador, 
+1 - Clone a branch main em seu computador, 
 
 2 - Abra o código no VSCode, 
 
